@@ -163,10 +163,6 @@ h1 {
   align-items: center;
   min-height: 100vh;
 }
-.Automotive {
-  font-size: 1.2rem;
-  font-weight: bold;
-}
 
 .lights-control {
   display: flex;
@@ -255,8 +251,7 @@ h1 {
   font-size: 2.2rem;
 }
 .profession {
-  font-size: 1.5rem;
-  font-weight: bold;
+  font-size: 1.6rem;
 }
 /* End middel */
 
